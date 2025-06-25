@@ -1,12 +1,18 @@
 /*  your css code here. If applicable */
-   body {
-        font-family: Arial, sans-serif;
-        padding: 20px;
-      }
-      #questions div {
-        margin-bottom: 15px;
-      }
-      #score {
-        margin-top: 20px;
-        font-weight: bold;
-      }
+       body {
+      font-family: Arial;
+      padding: 20px;
+    }
+    #result {
+      margin-top: 20px;
+      font-weight: bold;
+    }
+    input {
+      padding: 5px;
+      font-size: 16px;
+    }
+    button {
+      margin-left: 10px;
+      padding: 5px 10px;
+      font-size: 16px;
+    }
